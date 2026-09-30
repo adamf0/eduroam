@@ -1,6 +1,6 @@
 # eduroam
 
-A new Flutter project.
+A new Flutter project. min sdk 23 (android 6 - Marshmallow) target sdk 34 (android 14 - Upside Down Cake)
 
 ## Getting Started
 
